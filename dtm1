@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<meta charset="UTF-8" />
+<title>Draw The Melody</title>
+body {background-color: powderblue;}
+</head>
+<body>
+<h1>Draw The Melody</h1>
+<p>Reality Check</p>
+</body>
+</html>
